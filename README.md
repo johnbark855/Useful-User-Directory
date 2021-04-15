@@ -7,7 +7,7 @@
 ![License](https://img.shields.io/badge/License-ISC-green.svg)
 
 
-It is a user directory that allows people to search and find other users within the system. This is done through react and runs a clean interface for ease of access.
+It is a user directory that allows people to search and find other users within the system. When they search a person's name, they get the user picture, full name, email, and date of birth. This is done through react and runs a simple and clean interface for ease of access. 
 
 Here is a screenshot of the application:<img src="https://dsm01pap002files.storage.live.com/y4m2o4GMRguNO3wJeFCzoN3lMSh6SHHwHq19DHsryHMcVoAswpMLOphBPebvxBPKL8bfzAvu-D-5MGBk_eEP8Av1-PSSORSnxB-1YZ8e49aU7joRDFiL6GKw2bKPLLHN6dOjB0KpJsAEvzbLKIx3qs138z-XUmgk5_eTFz_bz0t5o7Pxmy_BURAh3lTfxolVuzP?width=1920&height=939&cropmode=none" width="1920" height="939" />
 
