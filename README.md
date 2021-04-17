@@ -13,7 +13,7 @@ Here is a screenshot of the application:<img src="https://dsm01pap002files.stora
 
 Here is a demo video to show it works:https://drive.google.com/file/d/1hJvZncfCESWmXtM3kpc4ClC-VccQzmgS/view
 
-Here is the deployed application:https://johnbark855.github.io/useful-user
+Here is the deployed application:https://johnbark855.github.io/Useful-User-Directory/
 
 
 
