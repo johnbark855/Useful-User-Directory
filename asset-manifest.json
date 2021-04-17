@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/useful-user/static/css/main.3ae1f97e.chunk.css",
-    "main.js": "/useful-user/static/js/main.b1942723.chunk.js",
-    "main.js.map": "/useful-user/static/js/main.b1942723.chunk.js.map",
-    "runtime~main.js": "/useful-user/static/js/runtime~main.d0e28d6c.js",
-    "runtime~main.js.map": "/useful-user/static/js/runtime~main.d0e28d6c.js.map",
-    "static/css/2.9233ae65.chunk.css": "/useful-user/static/css/2.9233ae65.chunk.css",
-    "static/js/2.0a6ff45d.chunk.js": "/useful-user/static/js/2.0a6ff45d.chunk.js",
-    "static/js/2.0a6ff45d.chunk.js.map": "/useful-user/static/js/2.0a6ff45d.chunk.js.map",
-    "index.html": "/useful-user/index.html",
-    "precache-manifest.c5d73c6c2de1df901e773acb733a4198.js": "/useful-user/precache-manifest.c5d73c6c2de1df901e773acb733a4198.js",
-    "service-worker.js": "/useful-user/service-worker.js",
-    "static/css/2.9233ae65.chunk.css.map": "/useful-user/static/css/2.9233ae65.chunk.css.map",
-    "static/css/main.3ae1f97e.chunk.css.map": "/useful-user/static/css/main.3ae1f97e.chunk.css.map"
+    "main.css": "/Useful-User-Directory/static/css/main.3ae1f97e.chunk.css",
+    "main.js": "/Useful-User-Directory/static/js/main.86f992f6.chunk.js",
+    "main.js.map": "/Useful-User-Directory/static/js/main.86f992f6.chunk.js.map",
+    "runtime~main.js": "/Useful-User-Directory/static/js/runtime~main.5aab41fa.js",
+    "runtime~main.js.map": "/Useful-User-Directory/static/js/runtime~main.5aab41fa.js.map",
+    "static/css/2.9233ae65.chunk.css": "/Useful-User-Directory/static/css/2.9233ae65.chunk.css",
+    "static/js/2.0a6ff45d.chunk.js": "/Useful-User-Directory/static/js/2.0a6ff45d.chunk.js",
+    "static/js/2.0a6ff45d.chunk.js.map": "/Useful-User-Directory/static/js/2.0a6ff45d.chunk.js.map",
+    "index.html": "/Useful-User-Directory/index.html",
+    "precache-manifest.191cbebb76db0b0153d2616bd35d14e2.js": "/Useful-User-Directory/precache-manifest.191cbebb76db0b0153d2616bd35d14e2.js",
+    "service-worker.js": "/Useful-User-Directory/service-worker.js",
+    "static/css/2.9233ae65.chunk.css.map": "/Useful-User-Directory/static/css/2.9233ae65.chunk.css.map",
+    "static/css/main.3ae1f97e.chunk.css.map": "/Useful-User-Directory/static/css/main.3ae1f97e.chunk.css.map"
   }
 }
