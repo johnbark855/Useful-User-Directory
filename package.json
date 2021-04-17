@@ -2,7 +2,7 @@
   "name": "useful-user",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://johnbark855.github.io/useful-user",
+  "homepage": "https://johnbark855.github.io/Useful-User-Directory",
   "dependencies": {
     "axios": "^0.19.0",
     "bootstrap": "^4.5.0",
@@ -13,7 +13,7 @@
   },
   "scripts": {
     "predeploy": "npm run build",
-    "deploy": "gh-pages -b master -d build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
